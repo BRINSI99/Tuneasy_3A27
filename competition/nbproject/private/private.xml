@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/competition/src/contoller/BackcompetitionController.java</file>
+            <file>file:/D:/java/competition/src/entities/reservation_competition.java</file>
+            <file>file:/D:/java/competition/src/tools/MyConnection.java</file>
+            <file>file:/D:/java/competition/src/tests/Main.java</file>
+            <file>file:/D:/java/competition/src/contoller/StartPoint.java</file>
+            <file>file:/D:/java/competition/src/entities/competition.java</file>
+            <file>file:/D:/java/competition/src/contoller/CompetitionController.java</file>
+            <file>file:/D:/java/competition/src/contoller/Reservation_competitionController.java</file>
+            <file>file:/D:/java/competition/src/services/reservation_competitionCRUD.java</file>
+            <file>file:/D:/java/competition/src/services/competitionCRUD.java</file>
+            <file>file:/D:/java/competition/src/view/style.css</file>
+            <file>file:/D:/java/competition/src/contoller/Reservation_competition_modifController.java</file>
+        </group>
+    </open-files>
+</project-private>
