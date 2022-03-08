@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Entities/Restaurant.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/ReservationLClientController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/Main.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/PlatClientController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/LogeCell.fxml</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/DataBase/database.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/RestaurantController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/ReservationRClientController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Service/ReservationLService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/RestoCellController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/ReservationLClient.fxml</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/LogementClientController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Entities/Logement.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Entities/ReservationL.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Service/LogementService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/PlatCellController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/ReservationLCellController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/LogementClient.fxml</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Entities/Plat.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/ReservationRCellController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Service/PlatService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/RestaurantClientController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/ReservationLCell.fxml</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/LogeCellController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/Logement.fxml</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Interface/Iservice.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Service/RestaurantService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/LogementController.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/Service/ReservationRService.java</file>
+            <file>file:/C:/Users/ASUS/Desktop/PiDev_tuneasy/src/GUI/PlatController.java</file>
+        </group>
+    </open-files>
+</project-private>
